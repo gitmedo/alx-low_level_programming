@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Entry point
+ * Main - Entry point
  *
  * Description : A C program that points with put function
  *
